@@ -178,3 +178,6 @@ For the latest updates and downloadable files, please check our [Releases sectio
 ---
 
 Thank you for checking out the **Code Style Guidelines** repository! Together, we can maintain high-quality code and foster a collaborative environment at UnifiedBits. Happy coding!
+---
+## 📦 Imported from [https://github.com/Bluehead80/code-style-guidelines](https://github.com/Bluehead80/code-style-guidelines)
+*Imported using ForkYouToo - Learn, Adapt, Build*
