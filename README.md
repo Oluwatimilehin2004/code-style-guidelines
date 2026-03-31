@@ -181,3 +181,7 @@ Thank you for checking out the **Code Style Guidelines** repository! Together, w
 ---
 ## 📦 Imported from [https://github.com/Bluehead80/code-style-guidelines](https://github.com/Bluehead80/code-style-guidelines)
 *Imported using ForkYouToo - Learn, Adapt, Build*
+
+---
+## 📦 Imported from [https://github.com/Bluehead80/code-style-guidelines](https://github.com/Bluehead80/code-style-guidelines)
+*Imported using ForkYouToo - Learn, Adapt, Build*
